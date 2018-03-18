@@ -97,7 +97,4 @@
         android:background="@drawable/buttonstyle"
         android:layout_gravity="center_horizontal"
         android:textSize="17dp"/>
-
-
-
 </LinearLayout>
