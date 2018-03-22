@@ -92,9 +92,10 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/buttonstyle"
+        android:onClick="clickFunction"
         android:text="Login"
         android:textColor="#FFFFFF"
-        android:background="@drawable/buttonstyle"
-        android:layout_gravity="center_horizontal"
-        android:textSize="17dp"/>
+        android:textSize="17dp" />
 </LinearLayout>
